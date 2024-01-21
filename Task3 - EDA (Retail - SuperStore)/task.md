@@ -12,8 +12,8 @@
 3. Github - Code Sharing & Insights presentation.
 
 - > Linkedin Post : 
-  > Video Link : 
+- > Video Link : 
 - > [Power BI Dashboard :](https://app.powerbi.com/view?r=eyJrIjoiZDJmNGZhNzktNzA2MS00ODcxLWI2MGItODAzNjdkYTBkMTE2IiwidCI6IjFmNzZhZDgzLTgyMmEtNGRmNC05NmUwLTk2N2ZhYTdmZGRiMyJ9)
-  > [NovyPro Article :](https://www.novypro.com/project/super-store-dashboard-power-bi-1)
-  > [Github File :](https://github.com/Sumit-SC/TSF-GRIP-Tasks/blob/main/Task3%20-%20EDA%20(Retail%20-%20SuperStore)/superstore.pbix) 
-  > [Dataset File :](https://github.com/Sumit-SC/TSF-GRIP-Tasks/blob/main/Task3%20-%20EDA%20(Retail%20-%20SuperStore)/SampleSuperstore.csv) 
+- > [NovyPro Article :](https://www.novypro.com/project/super-store-dashboard-power-bi-1)
+- > [Github File :](https://github.com/Sumit-SC/TSF-GRIP-Tasks/blob/main/Task3%20-%20EDA%20(Retail%20-%20SuperStore)/superstore.pbix) 
+- > [Dataset File :](https://github.com/Sumit-SC/TSF-GRIP-Tasks/blob/main/Task3%20-%20EDA%20(Retail%20-%20SuperStore)/SampleSuperstore.csv) 
